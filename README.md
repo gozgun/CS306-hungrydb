@@ -1,4 +1,4 @@
-# cs306
+# CS306
 
 This project is created for CS306 Database Course. 
 HungryDB is a restaurant lookup site where members can discover different deals and discounts.

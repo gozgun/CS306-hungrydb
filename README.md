@@ -6,7 +6,7 @@ Users can filter restaurants based on
 - Cuisine
 - Location
 - Average rating
-- Deal types
+- Discount/Deal types
 - Food name
 
 In addition, the admin can add/remove restaurants, add/remove deals, validate/invalidate memberships, update restaurants' information.
